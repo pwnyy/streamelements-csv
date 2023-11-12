@@ -1,6 +1,6 @@
 # streamelements-csv
 ## Disclaimer - I am not the original author of this and also do not have the original files, only the executables.
-Originally by (Slikrick)[https://github.com/Slikrick] and (sbdonslaught)[https://github.com/sbdonslaught]
+Originally by [Slikrick](https://github.com/Slikrick) and [sbdonslaught](https://github.com/sbdonslaught)
 # How to export your points from StreamElements.
 This is an external script, it was made with the intention of making it easier for people to export their points from StreamElements.com
 
